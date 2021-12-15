@@ -1,0 +1,26 @@
+body
+{
+    background-color: lightblue;
+}
+
+hr
+{
+    background-color: #FFF9B2;
+    border: dashed solid  ;
+    border-radius: 5px;
+    height: 2px;
+    
+}
+
+h1
+{
+    color: #04293A;
+}
+h2
+{
+    color: #04293A;
+}
+h3
+{
+    color: #04293A;
+}
